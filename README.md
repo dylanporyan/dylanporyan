@@ -1,5 +1,5 @@
-## Hello there! <img src="https://github.com/dylanporyan/dylanporyan/blob/main/Links/wave.gif" width="25px">
-
+### Hello there! <img src="https://github.com/dylanporyan/dylanporyan/blob/main/Links/wave.gif" width="25px">
+---
 **About me...**
 - :office: I am a Student Research Assistant at **Lawerence Berkeley National Laboratory**
 - :school: I am a undergraduate student majoring in Environmental Studies at **Sacramento State**
@@ -13,7 +13,7 @@
 - :lab_coat: Community Based Monitoring Programs and Water Quality
 - :bar_chart: FAIR data practices ad Community Data Standards
 
-\
+---
 **You can find me on** [![LinkedIn][1.2]][1]
 
 [1.2]: https://github.com/dylanporyan/dylanporyan/blob/main/Links/linkedin-3-16.png
