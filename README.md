@@ -1,5 +1,5 @@
-## Hello there! <img src="https://github.com/dylanporyan/dylanporyan/blob/main/Links/wave.gif" width="25px">
-
+### Hello there! <img src="https://github.com/dylanporyan/dylanporyan/blob/main/Links/wave.gif" width="25px">
+---
 **About me...**
 - :office: I am a Student Research Assistant at **Lawerence Berkeley National Laboratory**
 - :school: I am a undergraduate student majoring in Environmental Studies at **Sacramento State**
