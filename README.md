@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! <img src="https://github.com/dylanporyan/dylanporyan/blob/main/Links/wave.gif" width="25px">
 
 **About me...**
 - :office: I am a Student Research Assistant at **Lawerence Berkeley National Laboratory**
@@ -12,3 +12,9 @@
 - :cloud_with_rain: Stormwater Management
 - :lab_coat: Community Based Monitoring Programs and Water Quality
 - :bar_chart: FAIR data practices ad Community Data Standards
+
+\
+**You can find me on** [![LinkedIn][1.2]][1]
+
+[1.2]: https://github.com/dylanporyan/dylanporyan/blob/main/Links/linkedin-3-16.png
+[1]: https://www.linkedin.com/in/dylanporyan/
