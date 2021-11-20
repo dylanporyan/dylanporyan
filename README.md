@@ -11,7 +11,7 @@
 **Interests...**
 - :cloud_with_rain: Stormwater Management
 - :lab_coat: Community Based Monitoring Programs and Water Quality
-- :bar_chart: FAIR data practices ad Community Data Standards
+- :bar_chart: FAIR data practices and Community Data Standards
 
 ---
 **You can find me on** [![LinkedIn][1.2]][1]
