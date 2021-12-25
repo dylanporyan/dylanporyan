@@ -6,7 +6,7 @@
 
 **I'm currently working on...**
 - :earth_americas: Data standardization and FAIR data practices for Earth Systems Science data
-- :droplet: Water quality monitoring with City of Lodi CBM program - Storm Drain Detectives
+- :droplet: Water quality monitoring with City of Lodi CBM program - [Storm Drain Detectives](https://www.lodi.gov/492/Storm-Drain-Detectives)
 
 **Interests...**
 - :cloud_with_rain: Stormwater Management
