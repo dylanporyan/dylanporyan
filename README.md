@@ -2,16 +2,19 @@
 ---
 **About me...**
 - :office: Environmental Data Research Associate at **Lawerence Berkeley National Laboratory**
+- :book: M.S. graduate student in Environmental Geosicences at **California State University, East Bay**
 - :school: B.S. in Environmental Studies from **California State University, Sacramento**
 
 **I'm currently working on...**
 - :earth_americas: Data standardization and FAIR data practices for Earth Systems Science data
-- :droplet: Water quality monitoring with City of Lodi CBM program - [Storm Drain Detectives](https://www.lodi.gov/492/Storm-Drain-Detectives)
+- :mountain: (Meta)data management and field-data integration
+- :mag: Investigating groundwater-surface water interactions in Burney Creek, Shasta, CA
+- :droplet: Water quality monitoring participatory science program - [Storm Drain Detectives](https://www.lodi.gov/492/Storm-Drain-Detectives)
 
 **Interests...**
-- :lab_coat: Community Based Monitoring Programs and Water Quality
-- :bar_chart: FAIR data practices and Community Data Standards
-- :cloud_with_rain: Stormwater Management
+- :lab_coat: Groundwater-surface water (GW-SW) interactions and isotope hydrology
+- :bar_chart: FAIR data practices and community data standards
+- :cityscape: Participatory science and community engagement in science
 
 
 ---
